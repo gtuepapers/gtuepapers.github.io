@@ -1,4 +1,4 @@
-const serverUrl = "https://praxis-works-318312.el.r.appspot.com/"
+const serverUrl = "http://34.100.217.114:8080/"
 
 const searchBtn = document.querySelector("#search_btn")
 const searchInp = document.querySelector("#search_inp")
