@@ -1,4 +1,4 @@
-const serverUrl = "http://34.100.217.114:8080/"
+const serverUrl = "https://proven-grid-365616.el.r.appspot.com/"
 
 const searchBtn = document.querySelector("#search_btn")
 const searchInp = document.querySelector("#search_inp")
